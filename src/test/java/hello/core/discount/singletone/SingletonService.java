@@ -1,4 +1,4 @@
-package hello.core.singletone;
+package hello.core.discount.singletone;
 
 public class SingletonService {
     private static final SingletonService instance = new SingletonService();
